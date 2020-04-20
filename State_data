@@ -9,7 +9,7 @@ import time
 import csv
 import os
 from pprint import pprint
-from pandas.io.json import json_normalize
+from pandas import json_normalize
 
 #This section is to create a df to look at the change in cases over time
 # import csv file that is a breakdown of cases and deaths per day by state and county
@@ -135,7 +135,7 @@ pop_df = pop_df.rename(columns = {"NAME": "State","POPESTIMATE2019":"2019 Pop Es
 
 poverty_df = pop_df.merge(df,how = 'inner',on = "State")
 
-poverty_df = poverty_df.merge(Increase_in_Unemployment_df,how = 'inner', on = "State")
+#poverty_df = poverty_df.merge(Increase_in_Unemployment_df,how = 'inner', on = "State")
 
 
 

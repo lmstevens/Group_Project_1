@@ -1,8 +1,0 @@
-installations for heatmap import library
--------------------------------------------
-using conda:
-conda install -c conda-forge ipyleaflet
-
-using pip:
-pip install ipyleaflet
-jupyter nbextension enable --py --sys-prefix ipyleaflet

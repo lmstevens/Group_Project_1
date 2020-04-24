@@ -1,0 +1,51 @@
+State,Grade,Date Announced,Effective Date
+Alabama,C,April 3,April 4
+Alaska,C+,March 27,March 28
+Arizona,C+,March 30,March 31
+Arkansas,D,–,–
+California,B,March 19,March 19
+Colorado,B-,March 26,March 26
+Connecticut,C-,March 20,March 23
+Delaware,C,March 22,March 24
+Florida,C-,April 1,April 3
+Georgia,C,April 2,April 3
+Hawaii,B-,March 23,March 25
+Idaho,C-,March 25,March 25
+Illinois,C-,March 20,March 21
+Indiana,D+,March 23,March 24
+Iowa,C-,–,–
+Kansas,C-,March 28,March 30
+Kentucky,C-,March 22,March 26
+Louisiana,C,March 22,March 23
+Maine,C-,March 31,April 2
+Maryland,C,March 30,March 30
+Massachusetts,C,March 23,March 24
+Michigan,B,March 23,March 24
+Minnesota,C+,March 25,March 27
+Mississippi,B-,March 31,April 3
+Missouri,D+,April 3,April 6
+Montana,C,March 26,March 28
+Nebraska,D+,–,–
+Nevada,A-,April 1,April 1
+New Hampshire,C-,March 26,March 27
+New Jersey,C,March 20,March 21
+New Mexico,B-,March 23,March 24
+New York,C+,March 20,March 22
+North Carolina,D+,March 27,March 30
+North Dakota,B-,–,–
+Ohio,D+,March 22,March 23
+Oklahoma,D,–,–
+Oregon,C+,March 23,March 23
+Pennsylvania,C,March 23,April 1
+Rhode Island,D+,March 28,March 28
+South Carolina,D+,April 6,April 7
+South Dakota,C+,–,–
+Tennessee,D+,March 30,March 31
+Texas,C-,March 31,April 2
+Utah,C,–,–
+Vermont,B-,March 24,March 24
+Virginia,D+,March 30,March 30
+Washington,C+,March 23,March 23
+West Virginia,D+,March 23,March 24
+Wisconsin,C+,March 24,March 25
+Wyoming,D+,–,–
